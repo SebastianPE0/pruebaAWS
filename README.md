@@ -51,3 +51,12 @@ This repository demonstrates how to host a simple "Hello World" webpage on an AW
     
   - An video of the execution is attached
     [View video](sources/execution_video.mkv)
+  
+  
+  - Watch the Tutorial Video
+
+   Learn how to deploy your project to AWS EC2 by watching this video:
+
+   [![Execution_Video](https://img.youtube.com/vi/OwbJuIfShNo/0.jpg)](https://www.youtube.com/watch?v=OwbJuIfShNo&ab_channel=AntonySebasti%C3%A1nP%C3%A9rezGaona)
+
+   Click the image above or [watch the video here](https://www.youtube.com/watch?v=OwbJuIfShNo&ab_channel=AntonySebasti%C3%A1nP%C3%A9rezGaona).
